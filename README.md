@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-███╗   ██╗ █████╗ ██╗   ██╗██████╗ ███████╗███████╗██████╗
-████╗  ██║██╔══██╗██║   ██║██╔══██╗██╔════╝██╔════╝██╔══██╗
-██╔██╗ ██║███████║██║   ██║██║  ██║█████╗  █████╗  ██████╔╝
-██║╚██╗██║██╔══██║╚██╗ ██╔╝██║  ██║██╔══╝  ██╔══╝  ██╔═══╝
-██║ ╚████║██║  ██║ ╚████╔╝ ██████╔╝███████╗███████╗██║
-╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚═════╝ ╚══════╝╚══════╝╚═╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Navdeep+Kaur)](https://git.io/typing-svg)
 
 ### `< Student Developer />` &nbsp;·&nbsp; `< Full-Stack Learner />` &nbsp;·&nbsp; `< Problem Solver />`
 
