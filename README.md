@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Nav%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Navdeep%20Kaur%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descSize=18" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -10,11 +10,6 @@
 
 <br/>
 
-<!-- Profile Views + Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=navkaur62&label=Profile%20Views&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/navkaur62?label=Followers&style=flat-square&color=blueviolet)](https://github.com/navkaur62)
-[![GitHub stars](https://img.shields.io/github/stars/navkaur62?label=Stars&style=flat-square&color=blueviolet)](https://github.com/navkaur62)
-
 </div>
 
 ---
@@ -22,7 +17,7 @@
 ## 👩‍💻 About Me
 
 ```yaml
-name: Nav Kaur
+name: Navdeep Kaur
 username: navkaur62
 location: "🌏 Earth"
 pronouns: she/her
@@ -92,27 +87,7 @@ fun_fact: "I turn ☕ into code!"
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=navkaur62&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Nav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=navkaur62&bg_color=0D1117&color=9E4C98&line=9E4C98&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🌟 Featured Projects
 
@@ -141,10 +116,9 @@ fun_fact: "I turn ☕ into code!"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navkaur62)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/navkaur62)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navdeep-kaur-32b2a631b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/navkaur62)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navkaur62@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navkaur6289@gmail.com)
 
 </div>
 
