@@ -1,77 +1,160 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Navdeep+Kaur)](https://git.io/typing-svg)
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Nav%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descSize=18" />
 
-### `< Student Developer />` &nbsp;·&nbsp; `< Full-Stack Learner />` &nbsp;·&nbsp; `< Problem Solver />`
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Build.+Learn.+Grow.;Full-Stack+Developer+in+Progress;Turning+Ideas+into+Real+Products;Open+to+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Profile Views + Followers Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=navkaur62&label=Profile%20Views&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/navkaur62?label=Followers&style=flat-square&color=blueviolet)](https://github.com/navkaur62)
+[![GitHub stars](https://img.shields.io/github/stars/navkaur62?label=Stars&style=flat-square&color=blueviolet)](https://github.com/navkaur62)
 
 </div>
 
 ---
 
-<div align="center">
+## 👩‍💻 About Me
 
-## ◈ WHO AM I
+```yaml
+name: Nav Kaur
+username: navkaur62
+location: "🌏 Earth"
+pronouns: she/her
 
-</div>
+currently:
+  - 🔭 Working on: exciting projects
+  - 🌱 Learning: new technologies every day
+  - 👯 Open to: collaborations & open source
+  - 💬 Ask me about: anything tech!
 
-```python
-class NavdeepKaur:
-    name         = "Navdeep Kaur"
-    username     = "navkaur62"
-    role         = "Student Developer"
-    location     = "India 🇮🇳"
+hobbies:
+  - 💻 Coding
+  - 📚 Reading tech blogs
+  - 🎵 Music
+  - ☕ Coffee & Code sessions
 
-    currently    = ["Building SkillSphere", "Learning DSA", "Exploring AWS"]
-
-    tech_stack   = {
-        "languages"  : ["Python", "Java", "C++", "JavaScript"],
-        "frontend"   : ["React", "HTML", "CSS"],
-        "backend"    : ["Node.js", "Spring Boot"],
-        "database"   : ["SQL", "MySQL"],
-        "cloud"      : ["AWS"],
-        "tools"      : ["Git", "GitHub", "VS Code"]
-    }
-
-    motto        = "Build. Learn. Grow."
-    open_to      = ["Collaborations", "Internships", "Open Source"]
+fun_fact: "I turn ☕ into code!"
 ```
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
 <div align="center">
 
-## ◈ TECH ARSENAL
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navkaur62&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navkaur62&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-**Languages**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navkaur62&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+</div>
 
-**Frontend & Backend**
+---
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+## 🏆 GitHub Trophies
 
-**Cloud & Tools**
+<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+[![trophy](https://github-profile-trophy.vercel.app/?username=navkaur62&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Nav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=navkaur62&bg_color=0D1117&color=9E4C98&line=9E4C98&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=navkaur62&repo=navkaur62&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/navkaur62)
+
+> 💡 **Tip:** Replace the repo names above with your actual project repositories!
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+```
+📌 Building cool stuff with code
+🔍 Exploring new frameworks
+🤝 Looking to collaborate on open source projects
+📖 Reading & writing tech articles
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navkaur62)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/navkaur62)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/navkaur62)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navkaur62@gmail.com)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -79,82 +162,9 @@ class NavdeepKaur:
 
 <div align="center">
 
-## ◈ FEATURED PROJECTS
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 SkillSphere
-> A full-stack student dashboard for managing skills, learning paths, goals, and certifications in one place.
-
-**Highlights:**
-- 🔐 Authentication & Role-Based Access Control
-- 📊 Real-time Progress Tracking
-- 🧩 Modern Full-Stack Architecture
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 InsightForge
-> Transforms any CSV or Excel dataset into a complete analytics report with charts, statistics, and a downloadable PDF — in seconds.
-
-**Highlights:**
-- 📁 CSV & Excel Upload Support
-- 📈 Interactive Charts & Visualizations
-- 📄 Auto-generated PDF Reports
-
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=mysql)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ◈ GITHUB ANALYTICS
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=navkaur62&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=navkaur62&show_icons=true&theme=black&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navkaur62&layout=compact&theme=black&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="160"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ CONNECT
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/navkaur62)
-
-<br>
-
----
-
-**`"Build. Learn. Grow."`**
-
-⭐ *Open to collaborations, internships, and exciting projects*
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=navkaur62&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+**✨ Thanks for visiting! Drop a ⭐ if you like what you see! ✨**
 
 </div>
