@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&height=60&lines=Passionate+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+%26+Growing+%F0%9F%92%A1;Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -87,15 +87,14 @@ fun_fact: "I turn ☕ into code!"
 
 </div>
 
-
+---
 
 ## 🌟 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=navkaur62&repo=navkaur62&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/navkaur62)
-
-> 💡 **Tip:** Replace the repo names above with your actual project repositories!
+[![InsightForge](https://github-readme-stats.vercel.app/api/pin/?username=navkaur62&repo=InsightForge&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/navkaur62/InsightForge)
+[![SkillSphere](https://github-readme-stats.vercel.app/api/pin/?username=navkaur62&repo=SkillSphere&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/navkaur62/SkillSphere)
 
 </div>
 
