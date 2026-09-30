@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Navdeep%20Kaur%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Navdeep%20Kaur%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descSize=18" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -77,13 +77,17 @@ fun_fact: "I turn ☕ into code!"
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navkaur62&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+&nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navkaur62&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navkaur62&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+<!-- ✅ Fixed: using demolab.com instead of broken herokuapp.com -->
+<img src="https://streak-stats.demolab.com?user=navkaur62&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9" alt="GitHub Streak" />
 
 </div>
 
@@ -94,6 +98,7 @@ fun_fact: "I turn ☕ into code!"
 <div align="center">
 
 [![InsightForge](https://github-readme-stats.vercel.app/api/pin/?username=navkaur62&repo=InsightForge&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/navkaur62/InsightForge)
+&nbsp;&nbsp;
 [![SkillSphere](https://github-readme-stats.vercel.app/api/pin/?username=navkaur62&repo=SkillSphere&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/navkaur62/SkillSphere)
 
 </div>
