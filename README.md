@@ -10,6 +10,10 @@
 
 <br/>
 
+<!-- Profile Views + Followers Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=navkaur62&label=Profile%20Views&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/navkaur62?label=Followers&style=flat-square&color=blueviolet)](https://github.com/navkaur62)
+
 </div>
 
 ---
@@ -82,12 +86,23 @@ fun_fact: "I turn ☕ into code!"
 
 </div>
 
-<br/>
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<!-- ✅ Fixed: using demolab.com instead of broken herokuapp.com -->
-<img src="https://streak-stats.demolab.com?user=navkaur62&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9" alt="GitHub Streak" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=navkaur62&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Nav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=navkaur62&bg_color=0D1117&color=9E4C98&line=6E40C9&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
