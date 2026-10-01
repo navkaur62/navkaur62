@@ -74,14 +74,7 @@ fun_fact: "I turn ☕ into code!"
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navkaur62&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 ---
- 
-## 🏆 GitHub Trophies
- 
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=navkaur62&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
- 
-</div>
----
+
  
 ## 📈 Contribution Graph
  
