@@ -10,9 +10,6 @@
 
 <br/>
 
-<!-- Profile Views + Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=navkaur62&label=Profile%20Views&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/navkaur62?label=Followers&style=flat-square&color=blueviolet)](https://github.com/navkaur62)
 
 </div>
 
@@ -86,15 +83,6 @@ fun_fact: "I turn ☕ into code!"
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=navkaur62&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -136,7 +124,7 @@ fun_fact: "I turn ☕ into code!"
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navdeep-kaur-32b2a631b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/navkaur62)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_navdeep._.15)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navkaur6289@gmail.com)
 
 </div>
