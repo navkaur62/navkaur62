@@ -73,15 +73,6 @@ fun_fact: "I turn ☕ into code!"
 </div>
 ---
  
-## 📈 Contribution Graph
- 
-<div align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Nav's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=navkaur62&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</a>
-</div>
----
- 
 ## 🌟 Featured Projects
  
 <div align="center">
